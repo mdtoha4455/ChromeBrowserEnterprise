@@ -24,7 +24,7 @@ Use the [Chrome Browser Enterprise (CBE)](https://support.google.com/chrome/a/to
 
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+See [CONTRIBUTING](CONTRIBUTING) for details.
 
 ## License
 See [LICENSE](LICENSE) for details.
